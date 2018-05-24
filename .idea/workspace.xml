@@ -2,18 +2,120 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="308d9255-3568-474a-b04f-2843e9aec691" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/ForumProject.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ForumProject.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/conf/app.conf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/controllers/default.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/routers/router.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/reload.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/default_test.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/index.tpl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/css/blue-skin/blue-bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/css/blue-skin/devine-art.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/css/blue-skin/facebook.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/css/blue-skin/flickr.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/css/blue-skin/footer-bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/css/blue-skin/google.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/css/blue-skin/linked-in.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/css/blue-skin/rss.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/css/blue-skin/skype.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/css/blue-skin/stumble.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/css/blue-skin/twitter.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/css/blue-skin5152.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/css/bootstrap5152.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/css/custom5152.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/css/green-skin/devine-art.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/css/green-skin/facebook.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/css/green-skin/faq-minus.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/css/green-skin/faq-plus.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/css/green-skin/flickr.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/css/green-skin/footer-bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/css/green-skin/google.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/css/green-skin/green-bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/css/green-skin/linked-in.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/css/green-skin/plus-minus.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/css/green-skin/rss.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/css/green-skin/skype.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/css/green-skin/stumble.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/css/green-skin/twitter.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/css/green-skin5152.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/css/main5152.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/css/red-skin/devine-art.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/css/red-skin/facebook.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/css/red-skin/faq-minus.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/css/red-skin/faq-plus.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/css/red-skin/flickr.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/css/red-skin/footer-bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/css/red-skin/google.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/css/red-skin/linked-in.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/css/red-skin/plus-minus.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/css/red-skin/red-bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/css/red-skin/rss.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/css/red-skin/skype.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/css/red-skin/stumble.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/css/red-skin/twitter.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/css/red-skin5152.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/css/responsive5152.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/Descr.WD3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/calendar-icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/category-icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/category-main-icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/comment.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/devine-art.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/facebook.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/faq-minus.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/faq-plus.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/favicon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/flickr.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/footer-bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/glyphicons-halflings-white.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/glyphicons-halflings.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/google.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/image-large.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/image.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/li-arrow.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/like-btn.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/like.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/linked-in.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/loading.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/main-bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/plus-minus.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/question-large.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/question.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/quote.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/rss.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/scroll-top.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/search-loader.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/skype.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/standard-large.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/standard.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/stumble.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/support.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/temp/Descr.WD3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/temp/living-room-770x501.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/temp/man.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/twitter.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/user.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/video-large.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/video.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/js/custom.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/js/custom5152.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/js/jflickrfeed.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/js/jquery-1.8.3.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/js/jquery.easing.1.3.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/js/jquery.easing.1.34e44.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/js/jquery.form.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/js/jquery.formd471.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/js/jquery.liveSearch.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/js/jquery.liveSearchd5f7.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/js/jquery.validate.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/js/jquery.validate.minfc6b.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/js/prettyphoto/jquery.prettyPhoto.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/js/prettyphoto/jquery.prettyPhotoaeb9.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/js/prettyphoto/prettyPhotoaeb9.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/views/baseLayout/footer.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/views/baseLayout/header.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/views/baseLayout/navibar.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/views/baseLayout/script.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/views/baseLayout/searchwrapper.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/views/index/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/views/layout.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ForumProject.exe" beforeDir="false" afterPath="$PROJECT_DIR$/ForumProject.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/controllers/default.go" beforeDir="false" afterPath="$PROJECT_DIR$/controllers/default.go" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -24,39 +126,155 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="main.go" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/main.go">
+      <file leaf-file-name="default.go" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/controllers/default.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="216">
-              <caret line="11" selection-start-line="11" selection-end-line="11" />
+            <state relative-caret-position="135">
+              <caret line="7" column="16" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="default_test.go" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/tests/default_test.go">
-          <provider selected="true" editor-type-id="text-editor" />
+      <file leaf-file-name="controller.go" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../github.com/astaxie/beego/controller.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="195">
+              <caret line="118" column="18" selection-start-line="118" selection-start-column="18" selection-end-line="118" selection-end-column="18" />
+              <folding>
+                <element signature="e#628#875#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
         </entry>
       </file>
-      <file leaf-file-name="app.conf" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/conf/app.conf">
+      <file leaf-file-name="header.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/views/baseLayout/header.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="81">
-              <caret line="3" selection-start-line="3" selection-end-line="3" />
+            <state relative-caret-position="621">
+              <caret line="23" column="7" selection-start-line="23" selection-start-column="7" selection-end-line="23" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="layout.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/views/layout.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="243">
+              <caret line="9" column="10" selection-start-line="9" selection-start-column="3" selection-end-line="9" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="script.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/views/baseLayout/script.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="10" column="58" selection-start-line="10" selection-start-column="58" selection-end-line="10" selection-end-column="58" />
+              <folding>
+                <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="footer.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/views/baseLayout/footer.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="54">
+              <caret line="82" column="22" selection-start-line="82" selection-start-column="22" selection-end-line="82" selection-end-column="22" />
+              <folding>
+                <element signature="n#footer#0;n#!!top" />
+                <element signature="e#1134#1139#0#HTML" expanded="true" />
+                <element signature="e#2594#2600#0#HTML" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="searchwrapper.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/views/baseLayout/searchwrapper.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="54">
+              <caret line="13" column="30" selection-start-line="13" selection-start-column="30" selection-end-line="13" selection-end-column="30" />
+              <folding>
+                <element signature="n#div#0;n#!!top" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="navibar.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/views/baseLayout/navibar.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="27">
+              <caret line="1" column="10" selection-start-line="1" selection-start-column="5" selection-end-line="1" selection-end-column="10" />
+              <folding>
+                <element signature="n#div#0;n#!!top" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/views/index/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="889">
+              <caret line="139" column="30" selection-start-line="139" selection-start-column="30" selection-end-line="139" selection-end-column="30" />
+              <folding>
+                <element signature="e#768#773#0#HTML" expanded="true" />
+                <element signature="e#3446#3451#0#HTML" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/htmlsource/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="427">
+              <caret line="83" column="26" selection-start-line="83" selection-start-column="26" selection-end-line="83" selection-end-column="26" />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>js</find>
+    </findStrings>
+  </component>
   <component name="GOROOT" path="E:\Go" />
   <component name="Git.Settings">
+    <option name="UPDATE_TYPE" value="MERGE" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/conf/app.conf" />
+        <option value="$PROJECT_DIR$/views/index.html" />
+        <option value="$PROJECT_DIR$/layout/layout_blog.tpl" />
+        <option value="$PROJECT_DIR$/views/baseHeader.html" />
+        <option value="$PROJECT_DIR$/layout/html_head.tpl" />
+        <option value="$PROJECT_DIR$/layout/scripts.tpl" />
+        <option value="$PROJECT_DIR$/views/t.html" />
+        <option value="$PROJECT_DIR$/views/index/index.html" />
+        <option value="$PROJECT_DIR$/views/baseLayout/header.html" />
+        <option value="$PROJECT_DIR$/views/baseLayout/navibar.html" />
+        <option value="$PROJECT_DIR$/views/baseLayout/searchwrappe.html" />
+        <option value="$PROJECT_DIR$/views/baseLayout/footer.html" />
+        <option value="$PROJECT_DIR$/views/layout.html" />
+        <option value="$PROJECT_DIR$/views/baseLayout/script.html" />
+        <option value="$PROJECT_DIR$/controllers/default.go" />
+        <option value="$PROJECT_DIR$/../github.com/astaxie/beego/controller.go" />
       </list>
     </option>
   </component>
@@ -69,12 +287,14 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="207" />
     <option name="width" value="1400" />
     <option name="height" value="1000" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -90,27 +310,23 @@
             <path>
               <item name="ForumProject" type="b2602c69:ProjectViewProjectNode" />
               <item name="ForumProject" type="462c0819:PsiDirectoryNode" />
-              <item name="conf" type="462c0819:PsiDirectoryNode" />
+              <item name="controllers" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="ForumProject" type="b2602c69:ProjectViewProjectNode" />
               <item name="ForumProject" type="462c0819:PsiDirectoryNode" />
-              <item name="routers" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ForumProject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ForumProject" type="462c0819:PsiDirectoryNode" />
-              <item name="static" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ForumProject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ForumProject" type="462c0819:PsiDirectoryNode" />
-              <item name="tests" type="462c0819:PsiDirectoryNode" />
+              <item name="htmlsource" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="ForumProject" type="b2602c69:ProjectViewProjectNode" />
               <item name="ForumProject" type="462c0819:PsiDirectoryNode" />
               <item name="views" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ForumProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ForumProject" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+              <item name="baseLayout" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="ForumProject" type="b2602c69:ProjectViewProjectNode" />
@@ -124,12 +340,132 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="GO_FMT" value="false" />
     <property name="go.gopath.indexing.explicitly.defined" value="true" />
     <property name="go.sdk.automatically.set" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="settings.github" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\GoWorkSpace\src\ForumProject\static\css" />
+      <recent name="E:\GoWorkSpace\src\ForumProject\static" />
+      <recent name="E:\GoWorkSpace\src\ForumProject\static\js" />
+      <recent name="E:\GoWorkSpace\src\ForumProject\htmlsource" />
+    </key>
+  </component>
+  <component name="RestoreUpdateTree" date="Moments ago" ActionInfo="_Update">
+    <UpdatedFiles>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Updated from server" />
+        <option name="myStatusName" value="Changed on server" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="CHANGED_ON_SERVER" />
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Updated" />
+          <option name="myStatusName" value="Changed" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="false" />
+          <option name="myId" value="UPDATED" />
+        </FILE-GROUP>
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Created" />
+          <option name="myStatusName" value="Created" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="false" />
+          <option name="myId" value="CREATED" />
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/README.md</PATH>
+        </FILE-GROUP>
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Deleted" />
+          <option name="myStatusName" value="Deleted" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="true" />
+          <option name="myId" value="REMOVED_FROM_REPOSITORY" />
+        </FILE-GROUP>
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Restored" />
+          <option name="myStatusName" value="Will be restored" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="false" />
+          <option name="myId" value="RESTORED" />
+        </FILE-GROUP>
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Modified" />
+        <option name="myStatusName" value="Modified" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MODIFIED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Skipped" />
+        <option name="myStatusName" value="Skipped" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="SKIPPED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Merged with conflicts" />
+        <option name="myStatusName" value="Will be merged with conflicts" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MERGED_WITH_CONFLICTS" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Merged with tree conflicts" />
+        <option name="myStatusName" value="Merged with tree conflicts" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MERGED_WITH_TREE_CONFLICT" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Merged with property conflicts" />
+        <option name="myStatusName" value="Will be merged with property conflicts" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MERGED_WITH_PROPERTY_CONFLICT" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Merged" />
+        <option name="myStatusName" value="Will be merged" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MERGED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Not in repository" />
+        <option name="myStatusName" value="Not in repository" />
+        <option name="mySupportsDeletion" value="true" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="UNKNOWN" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Locally added" />
+        <option name="myStatusName" value="Locally added" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="LOCALLY_ADDED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Locally removed" />
+        <option name="myStatusName" value="Locally removed" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="LOCALLY_REMOVED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Switched" />
+        <option name="myStatusName" value="Switched" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="SWITCHED" />
+      </FILE-GROUP>
+    </UpdatedFiles>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -159,21 +495,32 @@
       </list>
     </recent_temporary>
   </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
   <component name="ToolWindowManager">
-    <frame x="207" y="0" width="1400" height="1000" extended-state="0" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21716417" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32946634" />
-      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
-      <window_info anchor="right" id="Database" order="3" />
-      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Messages" weight="0.32897604" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50053304" side_tool="true" weight="0.33006537" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3515081" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.32897604" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49946696" visible="true" weight="0.33006537" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32897604" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15511727" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32897604" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32946634" />
       <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39978212" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -187,6 +534,35 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="html source" />
+    <option name="LAST_COMMIT_MESSAGE" value="html source" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/controllers/default.go</url>
+          <line>11</line>
+          <properties />
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/controllers/default.go</url>
+          <line>13</line>
+          <properties />
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/controllers/default.go</url>
+          <line>15</line>
+          <properties />
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="5" />
+    </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/main.go">
@@ -206,10 +582,172 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/views/index.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="6" column="56" selection-start-line="6" selection-start-column="56" selection-end-line="6" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/htmlsource/js/custom.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="594">
+          <caret line="27" column="74" selection-start-line="27" selection-start-column="74" selection-end-line="27" selection-end-column="74" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/js/prettyphoto/prettyPhotoaeb9.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2094">
+          <caret line="14" column="51" selection-start-line="14" selection-start-column="51" selection-end-line="14" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/css/blue-skin5152.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2349" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/css/bootstrap5152.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/main.go">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="216">
           <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/layout/html_head.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="3" column="6" lean-forward="true" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/layout/scripts.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="4" column="9" selection-start-line="4" selection-start-column="9" selection-end-line="4" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/t.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="24" selection-start-column="24" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="3" lean-forward="true" selection-start-column="3" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/baseHeader.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2214">
+          <caret line="82" lean-forward="true" selection-start-line="82" selection-end-line="82" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/layout/layout_blog.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="486">
+          <caret line="18" column="18" lean-forward="true" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/htmlsource/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="427">
+          <caret line="83" column="26" selection-start-line="83" selection-start-column="26" selection-end-line="83" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/index/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="889">
+          <caret line="139" column="30" selection-start-line="139" selection-start-column="30" selection-end-line="139" selection-end-column="30" />
+          <folding>
+            <element signature="e#768#773#0#HTML" expanded="true" />
+            <element signature="e#3446#3451#0#HTML" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/baseLayout/searchwrapper.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="13" column="30" selection-start-line="13" selection-start-column="30" selection-end-line="13" selection-end-column="30" />
+          <folding>
+            <element signature="n#div#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/baseLayout/footer.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="82" column="22" selection-start-line="82" selection-start-column="22" selection-end-line="82" selection-end-column="22" />
+          <folding>
+            <element signature="n#footer#0;n#!!top" />
+            <element signature="e#1134#1139#0#HTML" expanded="true" />
+            <element signature="e#2594#2600#0#HTML" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/baseLayout/script.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="10" column="58" selection-start-line="10" selection-start-column="58" selection-end-line="10" selection-end-column="58" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/baseLayout/header.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="621">
+          <caret line="23" column="7" selection-start-line="23" selection-start-column="7" selection-end-line="23" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/baseLayout/navibar.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27">
+          <caret line="1" column="10" selection-start-line="1" selection-start-column="5" selection-end-line="1" selection-end-column="10" />
+          <folding>
+            <element signature="n#div#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/layout.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="9" column="10" selection-start-line="9" selection-start-column="3" selection-end-line="9" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/controllers/default.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="7" column="16" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../github.com/astaxie/beego/controller.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="118" column="18" selection-start-line="118" selection-start-column="18" selection-end-line="118" selection-end-column="18" />
+          <folding>
+            <element signature="e#628#875#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
